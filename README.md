@@ -1,0 +1,2 @@
+# kumari
+Learning the git
